@@ -9,6 +9,6 @@ public class DollarTest {
         Dollar five = new Dollar(5);
         five.times(2);
         Assert.assertEquals(10, five.amount);
-
+        
     }
 }
